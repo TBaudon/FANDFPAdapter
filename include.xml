@@ -7,7 +7,7 @@
 	</section>
 		
 	<section if="android" >
-		<java path="dependencies/android/libs/FacebookAdapter.jar" />
+		<dependency name="FANDFPAdapter" path="dependencies/android/" />
 	</section>
 	
 </project>
